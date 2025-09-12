@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Michael Weaver - Mechanic, Service Desk Analyst, and Adventurer. Explore my journey through hiking, fishing, and building model cars.">
+    <meta name="description" content="Victor Reyes Gutierrez - Avid Soccer Player, Lead Service Desk Specialist, and Cybersecurity Student. Explore my journey through soccer, running, building PC solutions, etc.">
     <title>Victor Reyes Gutierrez - Personal Website</title>
     <link rel="stylesheet" href="index.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -39,7 +39,7 @@
                     <img src="" alt="Victor Reyes Gutierrez" class="profile-image">
                 </div>
                 <div class="hero-text">
-                    <h2 class="hero-title">Mechanic, Service Desk Analyst, Adventurer</h2>
+                    <h2 class="hero-title">Mechanic, Lead Service Desk Specialist, Cybersecurity Student</h2>
                     <p class="hero-description">
                         Fascinated with creating fun and useful projects for other users to enjoy with their spare time. 
                         I hope to create a project as huge as Death Stranding 2. My greatest idol is Hideo Kojima for his 
@@ -56,7 +56,7 @@
                         </div>
                         <div class="stat-item">
                             <span class="stat-number" data-target="25">0</span>
-                            <span class="stat-label">Model Cars Built</span>
+                            <span class="stat-label">PC's Built</span>
                         </div>
                     </div>
                 </div>

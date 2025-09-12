@@ -93,8 +93,8 @@
                 </div>
                 <div class="skill-card">
                     <div class="skill-icon">🏔️</div>
-                    <h3>Adventure Planning</h3>
-                    <p>I enjoy the challenge of going on physically demanding physical activities such as hiking.</p>
+                    <h3>Cybersecurity</h3>
+                    <p>As a current Cybersecurity student. I do extensive research on different breaches that occur and how. As well as focus on my hands on abilities and knowledge as well. An example of an malicious attack I studied and recreated is the Equifax 2017 breach through the Apache Struts web application framework.</p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="80"></div>
                     </div>

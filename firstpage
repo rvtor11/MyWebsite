@@ -65,7 +65,7 @@
         <section class="quote-section">
             <div class="quote-content">
                 <blockquote>
-                    "We are not defined by our mistakes, but how we react to them and the life journey we crate despite of them."
+                    "We are not defined by our mistakes, but how we react to them and the life journey we create despite of them."
                 </blockquote>
                 <cite>- Jacquitta A. McManus</cite>
             </div>
@@ -109,8 +109,8 @@
                 </div>
                 <div class="skill-card">
                     <div class="skill-icon">🚗</div>
-                    <h3>Model Building</h3>
-                    <p>Detail-oriented model car builder with precision and patience.</p>
+                    <h3>Blank</h3>
+                    <p>Blank text here.</p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="85"></div>
                     </div>

@@ -49,8 +49,8 @@
                             <span class="stat-label">Projects Completed</span>
                         </div>
                         <div class="stat-item">
-                            <span class="stat-number" data-target="50">0</span>
-                            <span class="stat-label">Hiking Trails</span>
+                            <span class="stat-number" data-target="50">3</span>
+                            <span class="stat-label">Professional & Academic Achievements</span>
                         </div>
                         <div class="stat-item">
                             <span class="stat-number" data-target="25">5</span>
@@ -65,9 +65,9 @@
         <section class="quote-section">
             <div class="quote-content">
                 <blockquote>
-                    "A man who crawls in confusion goes farther than one frozen in doubt"
+                    "We are not defined by our mistakes, but how we react to them and the life journey we crate despite of them."
                 </blockquote>
-                <cite>- Unknown</cite>
+                <cite>- Jacquitta A. McManus</cite>
             </div>
         </section>
 
@@ -86,7 +86,7 @@
                 <div class="skill-card">
                     <div class="skill-icon">💻</div>
                     <h3>IT Support</h3>
-                    <p>Lead Service Desk analyst with advanced troubleshooting and customer service skills. I currently posess < 3 years of experience supporting the federal Dept. of Labor and their Service Desk. I started off as a front desk technician at the age of 22 in May of 2023 and have honed my skills since. I have worked on end user devices all the way to trobubleshooting network servers, cloud infrastructure, and security protocols. </p>
+                    <p>Lead Service Desk specialist with expert-level troubleshooting and customer service skills. I currently possess < 3 years of experience supporting the federal Dept. of Labor and their Service Desk. I started off as a front desk technician at the age of 22 in May of 2023 and have honed my skills since. I have worked on end user devices all the way to trobubleshooting network servers, cloud infrastructure, and security protocols. </p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="85"></div>
                     </div>
@@ -152,9 +152,8 @@
                     </div>
                 </div>
                 <div class="interest-card">
-                    <h3>Model Car Building</h3>
-                    <p>Building detailed model cars requires patience, precision, and creativity - 
-                    from painting to final assembly.</p>
+                    <h3>Gaming PC Building</h3>
+                    <p>Building detailed gaming PCs requires lots of patience, critical thinking, and organization skills. It is really easy to mess up an </p>
                     <div class="interest-progress">
                         <span>Detail Work</span>
                         <div class="progress-bar">

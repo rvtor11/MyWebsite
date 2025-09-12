@@ -41,13 +41,11 @@
                 <div class="hero-text">
                     <h2 class="hero-title">Gamer, Lead Service Desk Specialist, Cybersecurity Student</h2>
                     <p class="hero-description">
-                        Fascinated with creating fun and useful projects for other users to enjoy with their spare time. 
-                        I hope to create a project as huge as Death Stranding 2. My greatest idol is Hideo Kojima for his 
-                        many accomplishments and just creating what he loves.
+                        The idea of increasing my own knowledge and capabilties within the Tech industry to help others and develop myself is one of my greatest desires. I aim to one day use everything I learn over the years to help those in need.
                     </p>
                     <div class="hero-stats">
                         <div class="stat-item">
-                            <span class="stat-number" data-target="1">0</span>
+                            <span class="stat-number" data-target="1">2</span>
                             <span class="stat-label">Projects Completed</span>
                         </div>
                         <div class="stat-item">
@@ -55,7 +53,7 @@
                             <span class="stat-label">Hiking Trails</span>
                         </div>
                         <div class="stat-item">
-                            <span class="stat-number" data-target="25">0</span>
+                            <span class="stat-number" data-target="25">5</span>
                             <span class="stat-label">PC's Built</span>
                         </div>
                     </div>

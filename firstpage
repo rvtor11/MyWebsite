@@ -79,8 +79,8 @@
             <div class="skills-grid">
                 <div class="skill-card">
                     <div class="skill-icon">🔧</div>
-                    <h3>Mechanical Work</h3>
-                    <p>Expert in avaition repair and maintenance with years of hands-on experience.</p>
+                    <h3>Computer Repair Work</h3>
+                    <p>Expert in computer and mobile device repair and maintenance with years of hands-on experience.</p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="90"></div>
                     </div>
@@ -88,7 +88,7 @@
                 <div class="skill-card">
                     <div class="skill-icon">💻</div>
                     <h3>IT Support</h3>
-                    <p>Service desk analyst with strong troubleshooting and customer service skills.</p>
+                    <p>Lead Service Desk analyst with advanced troubleshooting and customer service skills.</p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="85"></div>
                     </div>
@@ -96,15 +96,15 @@
                 <div class="skill-card">
                     <div class="skill-icon">🏔️</div>
                     <h3>Adventure Planning</h3>
-                    <p>Experienced in planning and executing hiking adventures across diverse terrains.</p>
+                    <p>I enjoy the challenge of going on physically demanding physical activities such as hiking.</p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="80"></div>
                     </div>
                 </div>
                 <div class="skill-card">
                     <div class="skill-icon">🎣</div>
-                    <h3>Fishing</h3>
-                    <p>Skilled angler with knowledge of various fishing techniques and equipment.</p>
+                    <h3>Soccer</h3>
+                    <p>Years of experience playing in youth travel programs and competitive adult leagues.</p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="75"></div>
                     </div>
@@ -120,7 +120,7 @@
                 <div class="skill-card">
                     <div class="skill-icon">🎮</div>
                     <h3>Gaming</h3>
-                    <p>Passionate about gaming and inspired by creators like Hideo Kojima.</p>
+                    <p>Passionate about gaming and expressing oneself through their creations.</p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="90"></div>
                     </div>
@@ -133,9 +133,9 @@
             <h2>My Interests & Hobbies</h2>
             <div class="interests-grid">
                 <div class="interest-card">
-                    <h3>Hiking Adventures</h3>
-                    <p>From cross-country trails to Colorado mountains and Iceland's volcanic landscapes, 
-                    I've explored some of the most breathtaking terrains on Earth.</p>
+                    <h3>International Travels</h3>
+                    <p>From the mountains of my homeland, to hiking the trail to the Hollywood sign, hiking in Yosemite National Park, hikinh up 700 steps in Guatape, Colombia, sitting on the beaches of San Juan, Punta Cana, Nassau, & Cartagena. 
+                    I've explored some of the most breathtaking terrains on Earth with family and friends. However, I don't plan for that to end there. </p>
                     <div class="interest-progress">
                         <span>Adventure Level</span>
                         <div class="progress-bar">
@@ -144,9 +144,8 @@
                     </div>
                 </div>
                 <div class="interest-card">
-                    <h3>Fishing with Family</h3>
-                    <p>Quality time spent fishing with family, creating memories and enjoying the peaceful 
-                    outdoors together.</p>
+                    <h3>Blank</h3>
+                    <p>Blank.</p>
                     <div class="interest-progress">
                         <span>Family Time</span>
                         <div class="progress-bar">

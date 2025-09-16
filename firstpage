@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Victor Reyes Gutierrez - Avid Soccer Player, Lead Service Desk Specialist, and Cybersecurity Student. Explore my journey through soccer, running, building PC solutions, etc.">
     <title>Victor Reyes Gutierrez - Personal Website</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="Homepage.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <script src="script.js" defer></script>
 </head>
@@ -36,7 +36,7 @@
         <section class="hero-section">
             <div class="hero-content">
                 <div class="profile-image-container">
-                    <img src="" alt="Victor Reyes Gutierrez" class="profile-image">
+                    <img src="https://via.placeholder.com/300x300/2d5a27/ffffff?text=Victor+Reyes" alt="Victor Reyes Gutierrez" class="profile-image">
                 </div>
                 <div class="hero-text">
                     <h2 class="hero-title">Gamer, Lead Service Desk Specialist, Cybersecurity Student</h2>
@@ -92,7 +92,7 @@
                     </div>
                 </div>
                 <div class="skill-card">
-                    <div class="skill-icon">🏔️</div>
+                    <div class="skill-icon">🛡️</div>
                     <h3>Cybersecurity</h3>
                     <p>As a current Cybersecurity student. I do extensive research on different breaches that occur and how. As well as focus on my hands on abilities and knowledge as well. An example of an malicious attack I studied and recreated is the Equifax 2017 breach through the Apache Struts web application framework.</p>
                     <div class="skill-level">
@@ -180,7 +180,7 @@
     <footer>
         <div class="footer-content">
             <div class="footer-links">
-                <a href="https://www.linkedin.com/in/michael-weaver-3017771bb/">
+                <a href="https://www.linkedin.com/in/victor-reyes-gutierrez-747176236/">
                     <img src="https://tse4.mm.bing.net/th/id/OIP.BWDVnrxuZ-oqBPomMrdVugHaB4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3&adlt=strict" alt="LinkedIn">
                 </a>
             </div>

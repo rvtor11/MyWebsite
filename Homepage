@@ -28,6 +28,7 @@
             <a href="about.html" class="nav-link">About</a>
             <a href="portfolio.html" class="nav-link">Portfolio</a>
             <a href="Contact.html" class="nav-link">Contact</a>
+            <a href="VMRepairsHome.html" class="nav-link">VMRepairs</a>
         </nav>
     </header>
 

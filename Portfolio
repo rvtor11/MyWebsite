@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Victor Reyes Gutierrez's Portfolio - Explore my computer building projects and technical skills. See my custom PC builds and technical expertise.">
+    <title>Portfolio - Victor Reyes Gutierrez's Projects</title>
+    <link rel="stylesheet" href="Homepage.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loadingScreen" class="loading-screen">
+        <div class="loading-content">
+            <div class="loading-spinner"></div>
+            <h2>Loading...</h2>
+        </div>
+    </div>
+
+    <!-- Particles Container -->
+    <div id="particles" class="particles-container"></div>
+
+    <header>
+        <h1>Victor Reyes Gutierrez</h1>
+        <nav id="nav-links">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="AboutMe.html" class="nav-link">About</a>
+            <a href="portfolio.html" class="nav-link active">Portfolio</a>
+            <a href="Contact.html" class="nav-link">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Portfolio Hero Section -->
+        <section class="about-hero">
+            <div class="about-content">
+                <h2>My Projects & Technical Work</h2>
+                <p class="about-intro">
+                    Welcome to my portfolio showcasing my technical projects and hands-on work. 
+                    From custom PC builds to problem-solving challenges, these projects demonstrate 
+                    my skills in research, planning, and execution.
+                </p>
+            </div>
+        </section>
+
+        <!-- Computer Building Project -->
+        <section class="adventure-section">
+            <div class="adventure-content">
+                <div class="adventure-text">
+                    <h2>Custom PC Build</h2>
+                    <p>
+                        Building my PC was an exciting and rewarding experience that combined problem-solving, 
+                        research, and hands-on work. I started by carefully choosing each component—CPU, GPU, 
+                        motherboard, RAM, storage, power supply, and case—making sure everything was compatible 
+                        and suited to my needs, whether for gaming, productivity, or both.
+                    </p>
+                    <p>
+                        Once all the parts arrived, I laid them out and began the assembly process, starting 
+                        with installing the CPU and cooler onto the motherboard, followed by the RAM and storage. 
+                        Placing the motherboard into the case and connecting all the cables took patience and 
+                        attention to detail, especially when managing wires for a clean build.
+                    </p>
+                    <p>
+                        After everything was connected, the moment of truth came when I powered it on for the 
+                        first time—and seeing the system boot up properly was incredibly satisfying. Building 
+                        my PC not only gave me a deeper understanding of how computers work but also gave me 
+                        a custom machine tailored perfectly to my needs.
+                    </p>
+                    <div class="adventure-stats">
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="1">0</span>
+                            <span class="stat-label">PCs Built</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="8">0</span>
+                            <span class="stat-label">Components Selected</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number" data-target="100">0</span>
+                            <span class="stat-label">Hours of Research</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="adventure-image">
+                    <img src="images/IMG_3234.jpg" alt="Custom PC Build" class="feature-image">
+                </div>
+            </div>
+        </section>
+
+        <!-- Technical Skills Section -->
+        <section class="skills-section">
+            <h2>Technical Skills Demonstrated</h2>
+            <div class="skills-grid">
+                <div class="skill-card">
+                    <div class="skill-icon">🔍</div>
+                    <h3>Research & Planning</h3>
+                    <p>Extensive research to ensure component compatibility and optimal performance for specific use cases.</p>
+                    <div class="skill-level">
+                        <div class="skill-bar" data-level="95"></div>
+                    </div>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">⚙️</div>
+                    <h3>Technical Assembly</h3>
+                    <p>Precise assembly of complex computer components with attention to detail and cable management.</p>
+                    <div class="skill-level">
+                        <div class="skill-bar" data-level="90"></div>
+                    </div>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">🔧</div>
+                    <h3>Problem Solving</h3>
+                    <p>Diagnosing and resolving technical issues during the build process and system setup.</p>
+                    <div class="skill-level">
+                        <div class="skill-bar" data-level="85"></div>
+                    </div>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">📊</div>
+                    <h3>Performance Optimization</h3>
+                    <p>Understanding system requirements and optimizing for gaming and productivity workloads.</p>
+                    <div class="skill-level">
+                        <div class="skill-bar" data-level="80"></div>
+                    </div>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">🎯</div>
+                    <h3>Quality Assurance</h3>
+                    <p>Thorough testing and validation to ensure the system meets performance expectations.</p>
+                    <div class="skill-level">
+                        <div class="skill-bar" data-level="88"></div>
+                    </div>
+                </div>
+                <div class="skill-card">
+                    <div class="skill-icon">📚</div>
+                    <h3>Continuous Learning</h3>
+                    <p>Staying updated with the latest hardware trends and technological advancements.</p>
+                    <div class="skill-level">
+                        <div class="skill-bar" data-level="85"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Project Highlights Section -->
+        <section class="interests-section">
+            <h2>Project Highlights & Achievements</h2>
+            <div class="interests-grid">
+                <div class="interest-card">
+                    <h3>Component Selection</h3>
+                    <p>Successfully researched and selected compatible components that balanced performance, 
+                    budget, and future upgradeability. Each component was chosen based on specific use case requirements.</p>
+                    <div class="interest-progress">
+                        <span>Research Quality</span>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 95%"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="interest-card">
+                    <h3>Assembly Process</h3>
+                    <p>Executed a clean, organized assembly with proper cable management and attention to detail. 
+                    The build process was methodical and documented for future reference.</p>
+                    <div class="interest-progress">
+                        <span>Build Quality</span>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 90%"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="interest-card">
+                    <h3>System Performance</h3>
+                    <p>The completed system exceeded initial performance expectations, providing excellent 
+                    gaming and productivity performance while maintaining stability and reliability.</p>
+                    <div class="interest-progress">
+                        <span>Performance Rating</span>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: 92%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Call to Action Section -->
+        <section class="cta-section">
+            <div class="cta-content">
+                <h2>Interested in My Work?</h2>
+                <p>Let's discuss potential projects or collaborations! I'm always excited to take on new technical challenges.</p>
+                <div class="cta-buttons">
+                    <a href="Contact.html" class="cta-btn primary">Get In Touch</a>
+                    <a href="about.html" class="cta-btn secondary">Learn More About Me</a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="https://www.linkedin.com/in/victor-reyes-gutierrez-747176236/">
+                    <img src="https://tse4.mm.bing.net/th/id/OIP.BWDVnrxuZ-oqBPomMrdVugHaB4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3&adlt=strict" alt="LinkedIn">
+                </a>
+            </div>
+            <div class="footer-info">
+                <p>&copy; 2025 Victor Reyes Gutierrez Web Page</p>
+                <p class="footer-quote">"Building solutions, one project at a time"</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

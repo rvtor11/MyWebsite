@@ -25,10 +25,10 @@
         <h1>Victor Reyes Gutierrez</h1>
         <nav id="nav-links">
             <a href="index.html" class="nav-link active">Home</a>
-            <a href="about.html" class="nav-link">About</a>
+            <a href="AboutMe.html" class="nav-link">About</a>
             <a href="portfolio.html" class="nav-link">Portfolio</a>
             <a href="Contact.html" class="nav-link">Contact</a>
-            <a href="VMRepairsHome.html" class="nav-link">VMRepairs</a>
+	    <a href="VMRepairsHome.html" class="nav-link">VMRepairs</a>
         </nav>
     </header>
 
@@ -40,7 +40,7 @@
                     <img src="https://via.placeholder.com/300x300/2d5a27/ffffff?text=Victor+Reyes" alt="Victor Reyes Gutierrez" class="profile-image">
                 </div>
                 <div class="hero-text">
-                    <h2 class="hero-title">Gamer, Lead Service Desk Specialist, Cybersecurity Student</h2>
+                    <h2 class="hero-title">Gamer, Lead Service Desk Specialist, Cybersecurity Graduate</h2>
                     <p class="hero-description">
                         The idea of increasing my own knowledge and capabilties within the Tech industry to help others and develop myself is one of my greatest desires. I aim to one day use everything I learn over the years to help those in need.
                     </p>
@@ -50,11 +50,11 @@
                             <span class="stat-label">Projects Completed</span>
                         </div>
                         <div class="stat-item">
-                            <span class="stat-number" data-target="50">3</span>
+                            <span class="stat-number" data-target="4">3</span>
                             <span class="stat-label">Professional & Academic Achievements</span>
                         </div>
                         <div class="stat-item">
-                            <span class="stat-number" data-target="25">5</span>
+                            <span class="stat-number" data-target="8">4</span>
                             <span class="stat-label">PC's Built</span>
                         </div>
                     </div>
@@ -81,7 +81,7 @@
                     <h3>Computer Building & Repair Work</h3>
                     <p>Expert in computer and mobile device repair and maintenance with years of hands-on experience. I have performed screen replacements, motherboard replacements, battery replacements, and even speaker replacements in various Apple and Samsung phone models. I have built numerous Pcs for clientele as well as troubleshooted many other devices through my company, VMRepairs as an independant contractor. </p>
                     <div class="skill-level">
-                        <div class="skill-bar" data-level="90"></div>
+                        
                     </div>
                 </div>
                 <div class="skill-card">
@@ -101,9 +101,9 @@
                     </div>
                 </div>
                 <div class="skill-card">
-                    <div class="skill-icon">🎣</div>
-                    <h3>Soccer</h3>
-                    <p>Years of experience playing in youth travel programs and competitive adult leagues.</p>
+                    <div class="skill-icon">⚽</div>
+                    <h3>Blank</h3>
+                    <p>Blank.</p>
                     <div class="skill-level">
                         <div class="skill-bar" data-level="75"></div>
                     </div>
@@ -143,8 +143,8 @@
                     </div>
                 </div>
                 <div class="interest-card">
-                    <h3>Blank</h3>
-                    <p>Blank.</p>
+                    <h3>Soccer</h3>
+                    <p>Years of experience playing in youth travel programs and competitive adult leagues</p>
                     <div class="interest-progress">
                         <span>Family Time</span>
                         <div class="progress-bar">

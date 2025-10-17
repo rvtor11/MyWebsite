@@ -35,11 +35,11 @@
         <!-- Portfolio Hero Section -->
         <section class="about-hero">
             <div class="about-content">
-                <h2>My Projects & Technical Work</h2>
+                <h2>My Projects, Academic Achievements, & Technical Work</h2>
                 <p class="about-intro">
-                    Welcome to my portfolio showcasing my technical projects and hands-on work. 
-                    From custom PC builds to problem-solving challenges, these projects demonstrate 
-                    my skills in research, planning, and execution.
+                    Welcome to my portfolio showcasing my technical projects, hands-on work, academic and professional accomplishments.. 
+                    From custom PC builds, to enterprise level service desk management, to network security analysis and investigating, these projects demonstrate 
+                    my skills in research, technical knowledge, and implementation. 
                 </p>
             </div>
         </section>
